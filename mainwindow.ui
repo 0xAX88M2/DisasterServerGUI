@@ -13,6 +13,10 @@
   <property name="windowTitle">
    <string>DisasterServer</string>
   </property>
+  <property name="windowIcon">
+   <iconset>
+    <normaloff>app.ico</normaloff>app.ico</iconset>
+  </property>
   <widget class="QWidget" name="main">
    <layout class="QGridLayout" name="gridLayout">
     <property name="leftMargin">
